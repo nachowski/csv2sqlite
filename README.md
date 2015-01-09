@@ -11,7 +11,7 @@ This script was originally written for the purpose of converting an excel file i
 Goes well together with [android-sqlite-asset-helper](https://github.com/jgilfelt/android-sqlite-asset-helper).
 
 # Usage
-    python2 csv2sqlite.py my_fabulous_data.csv
+    python2 csv2sqlite.py <csv-filename> <sqlite-filename>
     
 # Example
     $ cat airline_data.csv
