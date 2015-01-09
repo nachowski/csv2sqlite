@@ -21,7 +21,7 @@ Goes well together with [android-sqlite-asset-helper](https://github.com/jgilfel
     
     $ python2 csv2sqlite.py airlines.csv airlines.db
     Making table airlines with 3 columns
-    Imported 3 rows into airlines.db
+    Imported 2 rows into airlines.db
     
     $ sqlite3 airlines.db
     sqlite> ...

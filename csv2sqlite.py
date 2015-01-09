@@ -84,4 +84,4 @@ for row in reader:
     
     counter += 1
 conn.commit()
-print "Imported " + str(counter) + " rows into " + sqlitefilename
+print "Imported " + str(counter - 1) + " rows into " + sqlitefilename
