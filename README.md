@@ -14,12 +14,12 @@ Goes well together with [android-sqlite-asset-helper](https://github.com/jgilfel
     python2 csv2sqlite.py my_fabulous_data.csv
     
 # Example
-    $ cat airlines.csv
+    $ cat airline_data.csv
     Code;Airline;Country
     LH;Lufthansa;Germany
     BA;British Airways;United Kingdom
     
-    $ python2 csv2sqlite.py airlines.csv airlines.db
+    $ python2 csv2sqlite.py airline_data.csv airlines.db
     Making table airlines with 3 columns
     Imported 2 rows into airlines.db
     
